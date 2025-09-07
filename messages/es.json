@@ -1,0 +1,20 @@
+{
+  "chat": {
+    "title": "Chat IA",
+    "inputPlaceholder": "Escribe tu mensaje aquí...",
+    "sendButton": "Enviar",
+    "clearButton": "Limpiar",
+    "loading": "Pensando...",
+    "error": "Error al procesar la solicitud",
+    "networkError": "Error de conexión",
+    "emptyMessage": "Por favor, escribe un mensaje",
+    "sources": "Fuentes:",
+    "usage": "Uso:",
+    "tokens": "tokens",
+    "cost": "coste"
+  },
+  "app": {
+    "title": "Aplicación de Chat IA",
+    "description": "Chat con inteligencia artificial integrada"
+  }
+}

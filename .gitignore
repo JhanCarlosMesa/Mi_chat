@@ -1,0 +1,33 @@
+.env
+.env.local
+.env.production
+.env.development
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+dist/
+
+# Misc
+.DS_Store
+*.log
+*.tgz
+*.tar.gz
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+test-results/
+playwright-report/
+playwright/.cache/
