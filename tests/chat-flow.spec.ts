@@ -29,19 +29,16 @@ test.describe('Chat Flow', () => {
   test('should send message and receive response', async ({ page }) => {
     // Mock the API response
     await page.route('/api/chat/send', async route => {
-      const mockResponse = new Response(
-        'data: {"chunk": "Hola, ", "isLast": false}\n\n' +
-        'data: {"chunk": "¿cómo puedo ayudarte hoy?", "isLast": true, "sources": ["Test source"], "usage": {"tokens": 15, "cost": 0.001}}\n\n',
-        {
-          status: 200,
-          headers: {
-            'Content-Type': 'text/event-stream',
-            'Cache-Control': 'no-cache',
-            'Connection': 'keep-alive',
-          },
-        }
-      );
-      await route.fulfill({ response: mockResponse });
+      await route.fulfill({
+        status: 200,
+        headers: {
+          'Content-Type': 'text/event-stream',
+          'Cache-Control': 'no-cache',
+          'Connection': 'keep-alive',
+        },
+        body: 'data: {"chunk": "Hola, ", "isLast": false}\n\n' +
+              'data: {"chunk": "¿cómo puedo ayudarte hoy?", "isLast": true, "sources": ["Test source"], "usage": {"tokens": 15, "cost": 0.001}}\n\n'
+      });
     });
 
     // Type a message
@@ -69,20 +66,17 @@ test.describe('Chat Flow', () => {
   test('should handle streaming response', async ({ page }) => {
     // Mock streaming response
     await page.route('/api/chat/send', async route => {
-      const mockResponse = new Response(
-        'data: {"chunk": "Esta es ", "isLast": false}\n\n' +
-        'data: {"chunk": "una respuesta ", "isLast": false}\n\n' +
-        'data: {"chunk": "en streaming.", "isLast": true}\n\n',
-        {
-          status: 200,
-          headers: {
-            'Content-Type': 'text/event-stream',
-            'Cache-Control': 'no-cache',
-            'Connection': 'keep-alive',
-          },
-        }
-      );
-      await route.fulfill({ response: mockResponse });
+      await route.fulfill({
+        status: 200,
+        headers: {
+          'Content-Type': 'text/event-stream',
+          'Cache-Control': 'no-cache',
+          'Connection': 'keep-alive',
+        },
+        body: 'data: {"chunk": "Esta es ", "isLast": false}\n\n' +
+              'data: {"chunk": "una respuesta ", "isLast": false}\n\n' +
+              'data: {"chunk": "en streaming.", "isLast": true}\n\n'
+      });
     });
 
     // Send a message
@@ -100,16 +94,13 @@ test.describe('Chat Flow', () => {
   test('should clear chat messages', async ({ page }) => {
     // Mock API response
     await page.route('/api/chat/send', async route => {
-      const mockResponse = new Response(
-        'data: {"chunk": "Respuesta de prueba", "isLast": true}\n\n',
-        {
-          status: 200,
-          headers: {
-            'Content-Type': 'text/event-stream',
-          },
-        }
-      );
-      await route.fulfill({ response: mockResponse });
+      await route.fulfill({
+        status: 200,
+        headers: {
+          'Content-Type': 'text/event-stream',
+        },
+        body: 'data: {"chunk": "Respuesta de prueba", "isLast": true}\n\n'
+      });
     });
 
     // Send a message first
@@ -153,16 +144,13 @@ test.describe('Chat Flow', () => {
   test('should support keyboard shortcuts', async ({ page }) => {
     // Mock API response
     await page.route('/api/chat/send', async route => {
-      const mockResponse = new Response(
-        'data: {"chunk": "Respuesta con Enter", "isLast": true}\n\n',
-        {
-          status: 200,
-          headers: {
-            'Content-Type': 'text/event-stream',
-          },
-        }
-      );
-      await route.fulfill({ response: mockResponse });
+      await route.fulfill({
+        status: 200,
+        headers: {
+          'Content-Type': 'text/event-stream',
+        },
+        body: 'data: {"chunk": "Respuesta con Enter", "isLast": true}\n\n'
+      });
     });
 
     // Type message and press Enter

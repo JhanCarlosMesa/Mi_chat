@@ -4,6 +4,7 @@
     "inputPlaceholder": "Escribe tu mensaje aquí...",
     "sendButton": "Enviar",
     "clearButton": "Limpiar",
+    "newChatButton": "Nuevo Chat",
     "loading": "Pensando...",
     "error": "Error al procesar la solicitud",
     "networkError": "Error de conexión",
@@ -11,7 +12,13 @@
     "sources": "Fuentes:",
     "usage": "Uso:",
     "tokens": "tokens",
-    "cost": "coste"
+    "cost": "coste",
+    "chatSessions": "Conversaciones",
+    "newChatTitle": "Nueva conversación",
+    "deleteChatButton": "Eliminar",
+    "switchToChat": "Cambiar a esta conversación",
+    "noChatsYet": "No hay conversaciones aún",
+    "chatSessionTitle": "Chat {{number}}"
   },
   "app": {
     "title": "Aplicación de Chat IA",

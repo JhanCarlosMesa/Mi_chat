@@ -25,3 +25,12 @@ export interface ChatMessage {
     cost?: number;
   };
 }
+
+// Types for chat session management
+export interface ChatSession {
+  id: string;
+  title: string;
+  messages: ChatMessage[];
+  createdAt: Date;
+  lastActiveAt: Date;
+}

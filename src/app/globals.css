@@ -4,13 +4,13 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #0f0f0f;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
-    --foreground: #ededed;
+    --foreground: #000000;
   }
 }
 
@@ -24,4 +24,18 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+[data-testid="chat-input"] {
+  color: #000000 !important;
+  font-weight: 500;
+}
+
+[data-testid="chat-input"]:focus {
+  color: #000000 !important;
+}
+
+[data-testid="chat-input"]::placeholder {
+  color: #6b7280 !important;
+  opacity: 1;
 }
