@@ -18,10 +18,35 @@
     "deleteChatButton": "Eliminar",
     "switchToChat": "Cambiar a esta conversación",
     "noChatsYet": "No hay conversaciones aún",
-    "chatSessionTitle": "Chat {{number}}"
+    "chatSessionTitle": "Chat {{number}}",
+    "logoutButton": "Cerrar sesión"
   },
   "app": {
     "title": "Aplicación de Chat IA",
     "description": "Chat con inteligencia artificial integrada"
+  },
+  "auth": {
+    "signInTitle": "Iniciar sesión",
+    "signUpTitle": "Registrarse",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "tu@ejemplo.com",
+    "passwordLabel": "Contraseña",
+    "passwordPlaceholder": "Tu contraseña",
+    "confirmPasswordLabel": "Confirmar contraseña",
+    "confirmPasswordPlaceholder": "Confirma tu contraseña",
+    "nameLabel": "Nombre",
+    "namePlaceholder": "Tu nombre completo",
+    "signInButton": "Iniciar sesión",
+    "signUpButton": "Registrarse",
+    "signingIn": "Iniciando sesión...",
+    "signingUp": "Registrando...",
+    "noAccount": "¿No tienes cuenta?",
+    "haveAccount": "¿Ya tienes cuenta?",
+    "signUpLink": "Regístrate aquí",
+    "signInLink": "Inicia sesión aquí",
+    "invalidCredentials": "Credenciales inválidas",
+    "loginError": "Error al iniciar sesión",
+    "registrationError": "Error al registrarse",
+    "passwordsDoNotMatch": "Las contraseñas no coinciden"
   }
 }

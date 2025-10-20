@@ -2,10 +2,12 @@
 
 import { useState, useRef, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
+import { useAuth } from '@/auth/AuthContext';
 import type { ChatMessage, ChatSession } from '@/types/chat';
 
 export default function ChatComponent() {
   const t = useTranslations('chat');
+  const { logout } = useAuth();
   
   // Chat session management
   const [chatSessions, setChatSessions] = useState<ChatSession[]>([]);
@@ -222,6 +224,12 @@ export default function ChatComponent() {
     }
   };
 
+  const handleLogout = () => {
+    logout();
+    // Redirect to login page
+    window.location.href = '/login';
+  };
+
   return (
     <div className="flex h-screen bg-white">
       {/* Sidebar */}
@@ -329,6 +337,12 @@ export default function ChatComponent() {
               data-testid="clear-chat-button"
             >
               {t('clearButton')}
+            </button>
+            <button
+              onClick={handleLogout}
+              className="px-4 py-2 text-sm bg-red-500 text-white hover:bg-red-600 rounded-md transition-colors"
+            >
+              {t('logoutButton')}
             </button>
           </div>
         </div>
