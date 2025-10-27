@@ -1,0 +1,202 @@
+El formato de inscripción de proyectos de investigación de los semilleros debe ser completamente diligenciado, para todas las propuestas, los proyectos en curso y los proyectos terminados con los que deseen participar en las convocatorias, tanto internas como externas.
+
+Nombre del semillero
+
+
+
+Asesores del proyecto
+
+Nombre completo
+
+Cédula
+
+Celular
+
+Correo electrónico
+
+Asesor temático:
+
+43552466
+
+3046840375
+
+loremar@unac.edu.co
+
+Asesor metodológico: 
+
+43552466
+
+3046840375
+
+loremar@unac.edu.co
+
+Estudiantes integrantes en el proyecto (máx. 4) 
+
+Nombre completo
+
+Cédula
+
+Celular
+
+Correo electrónico
+
+Jhan Carlos Mesa Escobar
+
+1001417605
+
+3126418464
+
+Jhanc,mesae@unac.edu.co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El proyecto se ha presentado en otros eventos: NO
+
+Nombre del evento / Convocatoria
+
+No aplica
+
+
+
+Título del proyecto 
+
+
+
+La relación entre la percepción de la contaminación del aire y la percepción de riesgo en la calidad del aire en los habitantes del área metropolitana del valle del Aburra.
+
+Estado del proyecto
+
+Propuesta de investigación (P1)
+
+
+
+Investigación en curso (P2)
+
+x
+
+Investigación terminada (P3)
+
+
+
+Facultad 
+
+Facultad de Ingeniería
+
+
+
+Área 
+
+Desarrollo móvil 
+
+Sub-área
+
+Contaminación ambiental
+
+
+
+
+
+Nota aclaratoria:
+
+La letra en color gris es explicativa y no debe estar en el formato final. 
+
+El espacio en blanco es lugar para colocar la información del proyecto.
+
+Desde el N.º 1 (título del proyecto)- hasta el N.º 9 (referencias bibliográficas) se debe cumplir con número de páginas máximo: para P1 (propuesta) 2 pág. P2 (en curso) 3 pág.  y P3 (terminado) 4 pág.
+
+Título del Proyecto: Afirmación precisa que hace referencia al tema en torno al cual gira el proyecto de investigación.
+
+La relación entre la percepción de la contaminación del aire y la percepción de riesgo en la calidad del aire en los habitantes del área metropolitana del valle del Aburra.
+
+Introducción: Descripción breve del tema de investigación, dirigido a orientar al lector sobre la condición a investigar.
+
+El proyecto surge como una solución innovadora para abordar la contaminación del aire, uno de los problemas ambientales más graves en Colombia y el mundo. Se genera principalmente por emisiones de vehículos, industrias y la quema de combustibles fósiles. Esta problemática afecta la salud humana, el medio ambiente y contribuye al cambio climático. El presente estudio busca analizar las causas, consecuencias y posibles soluciones mediante una aplicación móvil que ayude a monitorear la calidad del aire en tiempo real.
+
+Planteamiento del problema: Descripción de la situación problema que soporta al estudio.
+
+El desconocimiento sobre la calidad del aire y la falta de acceso a información en tiempo real representan un riesgo para la salud pública. En ciudades como Bogotá, Medellín y Cali, los niveles de contaminación superan los límites recomendados por la OMS, afectando especialmente a personas con enfermedades respiratorias. Es necesario desarrollar herramientas tecnológicas que permitan a la población tomar decisiones informadas según su percepción sobre la contaminación del aire para reducir su exposición a contaminantes.
+
+Justificación: Relevancia, pertinencia e impacto del proyecto de investigación.
+
+Esta investigación se justifica en la necesidad de comprender cómo los habitantes del Valle de Aburrá perciben la calidad del aire que respiran y los riesgos que esta puede tener para su salud y bienestar. No se trata únicamente de medir contaminantes en términos objetivos, sino de reconocer que la percepción social condiciona la disposición de las personas a modificar hábitos cotidianos, apoyar iniciativas de política pública o incluso participar en procesos comunitarios de mitigación ambiental.
+
+Objetivos y específicos: Presentación del objetivo general y los objetivos específicos de su investigación. 
+
+Objetivo General:
+
+Conocer la percepción que algunos habitantes del área metropolitana de Medellín tienen sobre la contaminación del aire y como pueden percibir el riesgo de una mala calidad del aire
+
+Objetivos Específicos:
+
+Investigar que percepción tienen los habitantes del valle del aburra sobre la contaminación en el aire
+
+Dar a conocer los riesgos que puede tener la mala calidad en el aire para habitantes con problemas o enfermedades respiratorias
+
+Desarrollar una aplicación que ayude a conocer los diferentes contaminantes que puede haber en el área metropolitana
+
+Estado del arte de la investigación o referente teórico: Abordaje breve de los principales aspectos teóricos que respaldan la investigación (Conceptos, leyes, principios, fundamentos, etc.). Para las propuestas de investigación y terminados se debe presentar un texto descriptivo.   Para los proyectos terminados se debe presentar un mapa conceptual que refleje una aproximación al referente teórico (no es obligatorio incluirlo en el Póster, sin embargo, debe ser sustentado en la socialización).
+
+La contaminación del aire está compuesta por diversos contaminantes como material particulado (PM10 y PM2.5), dióxido de azufre (SO2), monóxido de carbono (CO) y óxidos de nitrógeno (NOx). Estos contaminantes provienen principalmente de fuentes móviles (vehículos), industrias y la quema de biomasa. Sus efectos incluyen enfermedades respiratorias, cardiovasculares y daños ambientales como la lluvia ácida y el cambio climático.
+
+Metodología: Presentación del tipo de investigación, diseño de investigación, Población-muestra, Técnicas de recolección de datos, aspectos éticos.
+
+La investigación tiene un enfoque cuantitativo y un alcance exploratorio y correlacional, orientado a analizar la relación entre la percepción de la contaminación del aire y la percepción de riesgo en la calidad del aire en el área metropolitana de Medellín. La población está conformada por habitantes de cualquier edad de dicha región, y la muestra estimada es de aproximadamente 50 a 100 participantes. La técnica de recolección de datos será la encuesta estructurada, aplicada mediante un formulario. El instrumento se compone de dos secciones: una sobre la percepción de la contaminación del aire y otra sobre la percepción de riesgo, diseñadas con preguntas cerradas y escalas de respuesta. Se garantiza que los datos recolectados en dicha encuesta serán utilizados para estudio y con fines académicos, no sé pedirán datos personales o que puedan ser utilizados de mala manera en contra de los encuestados que aceptaron participar
+
+ Resultados: Descripción de los datos recolectados; su presentación deberá ser en forma narrativa, sin adicionar tablas ni gráficos. En el caso de propuesta de investigación indique resultados esperados; si corresponde a Investigación en curso indique resultados parciales, si es Investigación terminada indique resultados finales.
+
+
+
+Conclusiones: En la investigación terminada descripción precisa de los aspectos más relevantes obtenidos en la investigación terminada.  No aplica (N/A) para propuestas ni para proyectos en curso.
+
+
+
+Referencias bibliográficas Presentación de las fuentes bibliográficas que sirvieron de apoyo para la construcción y desarrollo de la investigación (Mínimo 5 referencias).
+
+Landeros-Mugica, K., Urbina-Soria, J., Angeles-Hernández, D. I., Gutiérrez-Arzaluz, M., &
+
+Mugica-Álvarez, V. (2024). Air pollution and climate change risk perception among
+
+residents in three cities of the Mexico Megalopolis. Atmosphere 2024, 15(1).
+
+https://doi.org/10.3390/atmos15010042
+
+Zhang, Y., Chen, J., Wei, X., & Wu, X. (2022). Development and Validation of the Haze Risk
+
+Perception Scale and Influencing Factor Scale—A Study Based on College Students in Beijing.
+
+International Journal of Environmental Research and Public Health, 19(8), 4510.
+
+https://doi.org/10.3390/ijerph19084510
+
+Pinakidou, S. (2025). People’s perceptions of air pollution and their awareness of official indexes at
+
+the start of the twenty-first century: a review. Discover Environment, 3(57).
+
+https://doi.org/10.1007/s44274-025-00213-x
+
+
+
+
+

@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+La relación entre percepción de la contaminación del aire y la percepción de riesgo en la calidad del aire de los habitantes en el área metropolitana de Medellín
+
+
+
+Jhan Carlos Mesa Escobar
+
+Corporación Universitaria Adventista
+
+Metodología de la investigación
+
+Lorena Martínez Soto
+
+2025
+
+
+
+Planteamiento del Problema
+
+Antecedentes del problema
+
+La contaminación del aire es reconocida como uno de los principales retos ambientales y de salud pública en el mundo. Según la Organización Mundial de la Salud, millones de personas mueren prematuramente cada año por enfermedades relacionadas con la exposición a contaminantes atmosféricos como el material particulado fino (PM2.5), el dióxido de nitrógeno (NO₂) y el ozono troposférico. Estos contaminantes están directamente vinculados con problemas respiratorios, cardiovasculares y neurológicos (Landeros-Mugica et al., 2024).
+
+En América Latina, diversas investigaciones han revelado que la contaminación atmosférica no solo es una amenaza tangible para la salud, sino también un factor que moldea la percepción de riesgo en la población. En la megalópolis de México, por ejemplo, se ha observado que la ciudadanía reconoce el deterioro de la calidad del aire y expresa preocupación al respecto; sin embargo, este reconocimiento no siempre se traduce en cambios de comportamiento o en acciones de protección (Landeros-Mugica et al., 2024). Este tipo de hallazgos son relevantes para contextos urbanos similares como el Valle de Aburrá en Medellín, donde las condiciones geográficas dificultan la dispersión de contaminantes, y donde las dinámicas urbanas como el alto tráfico vehicular e intensa actividad industrial aumentan el problema.
+
+Si bien Medellín cuenta con sistemas de monitoreo como el SIATA, los datos técnicos sobre la calidad del aire muchas veces no son comprendidos ni interiorizados por la ciudadanía. Existe entonces una brecha entre la información científica y la percepción de los habitantes, lo que limita la efectividad de las políticas ambientales y la participación ciudadana en la búsqueda de soluciones. En este sentido, los antecedentes de investigaciones previas muestran que estudiar la percepción de riesgo y de calidad del aire resulta clave para entender no solo la magnitud del problema, sino también la forma en que la población interpreta y reacciona frente a él.
+
+Justificación
+
+Esta investigación se justifica en la necesidad de comprender cómo los habitantes del Valle de Aburrá perciben la calidad del aire que respiran y los riesgos que esta puede tener para su salud y bienestar. No se trata únicamente de medir contaminantes en términos objetivos, sino de reconocer que la percepción social condiciona la disposición de las personas a modificar hábitos cotidianos, apoyar iniciativas de política pública o incluso participar en procesos comunitarios de mitigación ambiental.
+
+Diversos estudios han mostrado que cuando la población percibe la contaminación como un riesgo real y cercano, se incrementa la probabilidad de que se adopten medidas preventivas o presione por cambios estructurales (Landeros-Mugica et al., 2024). En Medellín, analizar estas percepciones es vital para fortalecer las estrategias de comunicación ambiental y los programas de salud pública. Además, permite identificar factores sociales, culturales y cognitivos que influyen en la manera en que la ciudadanía interpreta los riesgos, contribuyendo a generar un conocimiento más integral y útil para la toma de decisiones en un corto o mediano plazo.
+
+En suma, este proyecto pretende aportar evidencia que permita conectar los datos técnicos sobre contaminación con las percepciones ciudadanas, reduciendo la brecha entre el conocimiento científico y la realidad vivida por los habitantes del Valle de Aburrá.
+
+
+
+Pregunta de Investigación. ¿Cómo se relaciona la percepción de la contaminación del aire y la percepción de riesgo de la calidad del aire según los habitantes del Valle de Aburrá en Medellín, Colombia, en el año 2025?
+
+
+
+
+
+Marco Teórico
+
+Percepción de la Calidad del Aire
+
+La percepción de la calidad del aire (PCA) es un concepto multidimensional que abarca cómo los individuos interpretan, comprenden y sienten el estado del aire que les rodea. No se trata únicamente de una evaluación técnica de los contaminantes presentes, sino de un juicio subjetivo influenciado por una variedad de factores personales, sociales y sensoriales.
+
+Según Pinakidou (2025), en su revisión de estudios sobre la percepción pública de la contaminación del aire, la "percepción de la calidad del aire" se define de dos maneras complementarias:
+
+1. "Las ideas, nociones, comprensión y caracterización del aire por parte de las personas". Esta dimensión se enfoca en el constructo mental y cognitivo que los individuos forman sobre la calidad del aire, incluyendo sus creencias y entendimiento general sobre el tema.
+
+2. "La percepción del aire por parte de las personas a través de sus sentidos". Esta segunda dimensión destaca el papel fundamental de la experiencia sensorial directa (vista, olfato) como método primario a través del cual los ciudadanos toman conciencia de la mala calidad del aire.
+
+Por su parte, Yao L. (2022), al estudiar la relación entre la percepción de la contaminación y las intenciones de asentamiento urbano, definen la percepción de la contaminación del aire como "la opinión que las personas tienen de las condiciones de contaminación del aire que las rodean y considera los procesos mediante los cuales se modifica dicha opinión". Esta definición resalta el carácter evaluativo y dinámico de la percepción, sugiriendo que es una opinión que puede cambiar y adaptarse con el tiempo. Los autores argumentan que esta percepción subjetiva es un reflejo más directo de la calidad del aire objetiva y un factor más influyente en la toma de decisiones que los datos técnicos por sí solos.
+
+Finalmente, Zeng y Yang (2023), en su investigación sobre los factores que influyen en la percepción de la calidad del aire en China, la definen como "el resultado conjunto de la estimulación de la calidad del aire y del proceso en sí". Esta definición subraya que la percepción no solo depende del estímulo externo (la calidad real del aire), sino también del proceso interno de interpretación del individuo. Los autores la describen como "el proceso que ocurre en las personas mediante el cual la estimulación sensorial basada en la calidad del aire se traduce en una experiencia organizada".
+
+En conjunto, estas definiciones establecen que la percepción de la calidad del aire es un juicio subjetivo y multifacético. Combina el conocimiento y las ideas de una persona sobre el aire con su experiencia sensorial directa, formando una opinión evaluativa que puede modificarse con el tiempo y que resulta de la interacción entre el estímulo ambiental y el proceso interpretativo individual.
+
+Percepción de Riesgo en la Calidad del Aire
+
+La percepción de riesgo en la calidad del aire es un concepto fundamental para entender cómo los individuos y las comunidades responden a las amenazas ambientales. No se limita al conocimiento técnico de un peligro, sino que involucra un juicio subjetivo complejo que integra creencias, emociones y valoraciones personales y sociales.
+
+Noël (2022) definen la percepción de riesgo de una manera amplia e integral, afirmando que implica "las creencias, actitudes, juicios y sentimientos de las personas, así como las disposiciones culturales y sociales más amplias que adoptan hacia los peligros y sus beneficios". Para estos autores, la percepción de riesgo es un mediador crucial entre la exposición a la contaminación del aire y la salud, ya que las actitudes que se derivan de ella influyen directamente en la respuesta del público. Una alta percepción de riesgo puede generar estrés, mientras que una subestimación puede llevar a la falta de medidas de protección adecuadas.
+
+Por su parte, Cori (2020) la definen como "el juicio que una persona formula sobre un riesgo, influenciado por hechos, conocimientos (tanto generales como científicos), preferencias y actitudes personales (temor, confianza e interpretación de la incertidumbre), evaluaciones individuales (generales y específicas) y su rol social". Esta definición destaca que la percepción de riesgo no es un proceso enteramente racional, sino que las personas evalúan los peligros utilizando una mezcla de habilidades cognitivas y valoraciones emocionales, como la intuición o la imaginación. Las creencias, conocimientos y valores resultantes no solo impactan las decisiones, sino también los comportamientos y las actitudes de exposición a las presiones ambientales.
+
+Finalmente, Zhang. (2022), en su estudio sobre la percepción del riesgo de la contaminación atmosférica, la definen como "un proceso en el que las personas juzgan el grado de peligro de las cosas basándose en sus sentimientos subjetivos y luego toman decisiones relevantes". Este enfoque práctico subraya que la percepción es un paso previo a la acción. Los autores estructuran la percepción de riesgo en cuatro dimensiones clave: la percepción de las consecuencias directas, las consecuencias indirectas, la responsabilidad del riesgo y la fuente del riesgo. Esta conceptualización muestra que la percepción de riesgo es multidimensional y abarca desde la identificación del origen del peligro hasta la evaluación de sus impactos y la atribución de responsabilidades.
+
+En síntesis, estas tres definiciones presentan la percepción de riesgo en la calidad del aire como un juicio subjetivo y multifactorial. Es un constructo que integra componentes cognitivos (creencias, conocimiento), afectivos (sentimientos, emociones como el temor) y socio-culturales (valores, actitudes, rol social) para evaluar el peligro que representa la contaminación del aire. Este juicio es clave, ya que determina las respuestas individuales y colectivas, desde la adopción de conductas protectoras hasta el apoyo a políticas públicas.
+
+
+
+Relación entre la Percepción de la Calidad del Aire y la Percepción de Riesgo en la Calidad del Aire
+
+La percepción de la calidad del aire y la percepción de riesgo en la calidad del aire son constructos distintos, pero muy relacionados. La percepción de la calidad del aire (PCA) actúa a menudo como un precursor o un componente fundamental de la percepción de riesgo. La manera en que una persona evalúa subjetivamente el aire que respira —ya sea a través de sus sentidos, su conocimiento o sus creencias— influye directamente en su juicio sobre el peligro que esta representa para su salud y bienestar.
+
+Song (2024) establecen esta conexión al diferenciar la forma en que los expertos y el público general evalúan la contaminación. Mientras los expertos se basan en datos técnicos como concentraciones y evidencia estadística, "la percepción que el público en general tiene sobre la contaminación del aire se ve influenciada por factores como los sentidos, el nivel socioeconómico, el estado de salud y los hábitos de las personas". Esta dependencia de las "pistas sensoriales" (sensory clues), como la visibilidad o los olores, es fundamental, ya que estas experiencias directas forman la base sobre la cual se construye la percepción del riesgo. En su estudio, estos autores observan que las personas que sufren síntomas de salud mental más graves tienden a evaluar la calidad del aire de forma más negativa, lo que a su vez se asocia con una estimación más precisa del riesgo (percibir la calidad del aire como mala cuando los niveles de contaminación son realmente altos). Esto sugiere que un estado de salud vulnerable puede agudizar la percepción de la calidad del aire, lo que lleva a una percepción de riesgo más alineada con la realidad objetiva.
+
+Por parte de Bahrami (2024) refuerzan esta relación al definir la percepción de riesgo como un juicio que integra múltiples dimensiones, entre ellas la "percepción/conciencia de la calidad del aire". Para estos autores, la percepción de riesgo es un concepto más amplio que incluye una evaluación subjetiva del aire como uno de sus componentes clave. sugieren que "los comportamientos e intenciones de las personas con respecto a la prevención y la exposición a la contaminación del aire dependen de cómo perciben los riesgos para la salud asociados con los contaminantes del aire". Esta afirmación implica una secuencia lógica: primero, se percibe la calidad del aire (por ejemplo, se considera que es mala); segundo, esta percepción informa la evaluación del riesgo para la salud (se considera peligrosa); y tercero, esta percepción de riesgo motiva la adopción de conductas protectoras. El hecho de que la "percepción/conciencia de la calidad del aire" y la "percepción del riesgo para la salud" sean las dos dimensiones evaluadas con mayor frecuencia en la literatura científica demuestra su estrecha vinculación.
+
+
+
+
+
+
+
+
+
+
+
+Referencias
+
+Landeros-Mugica, K., Urbina-Soria, J., Angeles-Hernández, D. I., Gutiérrez-Arzaluz, M., & Mugica-Álvarez, V. (2024). Air pollution and climate change risk perception among residents in three cities of the Mexico Megalopolis. Atmosphere 2024, 15(1).
+
+https://doi.org/10.3390/atmos15010042
+
+Pinakidou, S. (2025). People’s perceptions of air pollution and their awareness of official indexes at the start of the twenty-first century: a review. Discover Environment, 3(57). https://doi.org/10.1007/s44274-025-00213-x
+
+Yao, L., Li, X., Zheng, R., & Zhang, Y. (2022). The Impact of Air Pollution Perception on Urban Settlement Intentions of Young Talent in China. International Journal of Environmental Research and Public Health, 19(3), 1080. https://doi.org/10.3390/ijerph19031080
+
+Zeng, X., & Yang, G. (2023). Influencing factors of air-quality perception in China: What is constructed? What is hidden? Frontiers in Environmental Science, 10, 1088895. https://doi.org/10.3389/fenvs.2022.1088895
+
+Noël, C., Van Landschoot, L., Vanroelen, C., & Gadeyne, S. (2022). The Public’s Perceptions of Air Pollution. What’s in a Name? Environmental Health Insights, 16. https://doi.org/10.1177/11786302221123563
+
+Cori, L., Donzelli, G., Gorini, F., Bianchi, F., & Curzio, O. (2020). Risk Perception of Air Pollution: A Systematic Review Focused on Particulate Matter Exposure. International Journal of Environmental Research and Public Health, 17(17), 6424. https://doi.org/10.3390/ijerph17176424
+
+Zhang, Y., Chen, J., Wei, X., & Wu, X. (2022). Development and Validation of the Haze Risk Perception Scale and Influencing Factor Scale—A Study Based on College Students in Beijing. International Journal of Environmental Research and Public Health, 19(8), 4510. https://doi.org/10.3390/ijerph19084510
+
+Song, W., Kwan, M.-P., & Huang, J. (2024). Assessment of air pollution and air quality perception mismatch using mobility-based real-time exposure. PLOS ONE, 19(2), e0294605. https://doi.org/10.1371/journal.pone.0294605
+
+Bahrami, Z., Sato, S., Yang, Z., Maiti, M., Kanawat, P., Umemura, T., Onishi, K., Terasaki, H., Nakayama, T., Matsumi, Y., & Ueda, K. (2024). The perception of air pollution and its health risk: a scoping review of measures and methods. Global Health Action, 17(1), 2370100. https://doi.org/10.1080/16549716.2024.2370100
+
+
+
+
+
+Formulario: Encuesta sobre la percepción del riesgo en la calidad del aire
+
+https://docs.google.com/forms/d/e/1FAIpQLSdVIexV309Z27Rw80Etn9vD7CMGFRrtavFERqLZfH2G1EWb6Q/viewform?usp=dialog 
+
+Excel con respuestas
+
+https://docs.google.com/spreadsheets/d/1UlPV7y8qNCpVIAVScvLSd44WxYWSH2wl5ZV8FhhzWXk/edit?usp=sharing 
+
+
+

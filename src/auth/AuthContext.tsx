@@ -1,6 +1,9 @@
 'use client';
 
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+// Import Firebase auth functions
+import { auth } from '@/firebase/config';
+import { GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged, User as FirebaseUser } from 'firebase/auth';
 
 interface User {
   id: string;
@@ -14,6 +17,7 @@ interface AuthContextType {
   register: (name: string, email: string, password: string) => Promise<boolean>;
   logout: () => void;
   isLoading: boolean;
+  loginWithGoogle: () => Promise<boolean>; // Add Google login function
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -34,6 +38,27 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       }
     }
     setIsLoading(false);
+    
+    // Listen for Firebase auth state changes
+    const unsubscribe = onAuthStateChanged(auth, (firebaseUser) => {
+      if (firebaseUser) {
+        // User is signed in
+        const user: User = {
+          id: firebaseUser.uid,
+          email: firebaseUser.email || '',
+          name: firebaseUser.displayName || 'Google User'
+        };
+        setUser(user);
+        localStorage.setItem('chatUser', JSON.stringify(user));
+      } else {
+        // User is signed out
+        setUser(null);
+        localStorage.removeItem('chatUser');
+      }
+      setIsLoading(false);
+    });
+
+    return () => unsubscribe();
   }, []);
 
   const login = async (email: string, password: string): Promise<boolean> => {
@@ -82,7 +107,35 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     }
   };
 
+  const loginWithGoogle = async (): Promise<boolean> => {
+    try {
+      const provider = new GoogleAuthProvider();
+      const result = await signInWithPopup(auth, provider);
+      const firebaseUser: FirebaseUser = result.user;
+      
+      // Create user object
+      const user: User = {
+        id: firebaseUser.uid,
+        email: firebaseUser.email || '',
+        name: firebaseUser.displayName || 'Google User'
+      };
+      
+      setUser(user);
+      localStorage.setItem('chatUser', JSON.stringify(user));
+      return true;
+    } catch (error) {
+      console.error('Google login error:', error);
+      return false;
+    }
+  };
+
   const logout = () => {
+    // Sign out from Firebase
+    signOut(auth).catch((error) => {
+      console.error('Firebase logout error:', error);
+    });
+    
+    // Clear local state
     setUser(null);
     localStorage.removeItem('chatUser');
   };
@@ -93,6 +146,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     register,
     logout,
     isLoading,
+    loginWithGoogle, // Include the new function
   };
 
   return (

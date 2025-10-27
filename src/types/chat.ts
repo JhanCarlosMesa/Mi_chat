@@ -3,6 +3,8 @@ export interface ChatRequest {
   chatInput: string;
   topK?: number;
   temperature?: number;
+  sessionId?: string;
+  fileName?: string;
 }
 
 export interface ChatResponse {
@@ -24,6 +26,7 @@ export interface ChatMessage {
     tokens?: number;
     cost?: number;
   };
+  fileName?: string; // Added to track which file this message is related to
 }
 
 // Types for chat session management
@@ -33,4 +36,9 @@ export interface ChatSession {
   messages: ChatMessage[];
   createdAt: Date;
   lastActiveAt: Date;
+  uploadedFiles?: Array<{ // Track uploaded files for this session
+    filename: string;
+    originalName: string;
+    uploadTime: Date;
+  }>;
 }
